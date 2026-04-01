@@ -114,6 +114,7 @@ You must integrate at least **one meaningful AI feature**.
 * Home / Product listing
 * Search page
 * Product detail page
+* Add product page (only for admins)
 * Cart page
 * Login/Register page
 * Checkout page
